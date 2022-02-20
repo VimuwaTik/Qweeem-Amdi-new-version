@@ -25,16 +25,16 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BlackAmda/Queen-Amdi-QR-Code)
 
 ### Deploy OLD v3 Queen Amdi Bot
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/BlackAmda/QueenAmdi-v3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/VimuwaTik/Qweeem-Amdi-new-version)
 </div>
 
 ----
 
 <p align="center">
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+  <a href="https://github.com/VimuwaTik/Qweeem-Amdi-new-version">
     <img src="https://img.shields.io/docker/pulls/blackamda/queenamdi?style=flat-square&label=Docker+Pulls">
   </a>
-  <a href="https://github.com/BlackAmda/QueenAmdi">
+  <a href="https://github.com/VimuwaTik/Qweeem-Amdi-new-version">
     <img src="https://img.shields.io/docker/image-size/blackamda/queenamdi?style=flat-square&logo=github&label=Image Size">
     
   </a>
